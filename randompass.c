@@ -9,8 +9,7 @@ int main()
         int a;
         int i = 0;
         srand(time(NULL));
-        for(i = 0; i < 16; i++)   /* there I whant to change 16 into a user's valu
-e */
+        for(i = 0; i < 16; i++)   /* there I whant to change 16 into a user's value */
         {
                 while (r < 64)
                 {
