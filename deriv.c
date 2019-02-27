@@ -10,8 +10,8 @@ int main() {
 	printf("n = coefnum, e = esponent \n");
 	printf("usage nxe \n");
 	printf("derivata di: ");
-	scanf("%d%c%d", &a, &c, &b)
-	a*=b;
-	b-=1;
+	scanf("%d%c%d", &a, &c, &b);
+	a *=b ;
+	b -=1 ;
 	printf(" %dx**%d \n", a, b);
 }
